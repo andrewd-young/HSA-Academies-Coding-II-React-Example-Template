@@ -1,0 +1,88 @@
+html{
+    background-image: url("blacknoise.png");
+    background-attachment: fixed;
+    margin: 0; 
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.section{
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-style: normal;
+    /* color: rgb(40, 40, 36); */
+    color: white;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 110px;
+    /* color: rgb(40, 40, 36); */
+    color: white;
+    padding-left: 5%;
+    /* width: 80%; */
+}
+
+h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 50px;
+    /* color: rgb(40, 40, 36); */
+    color: white;
+    text-align:center;
+}
+
+p{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 14px;
+    /* color: rgb(40, 40, 36); */
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-indent: 10%;
+    text-align: justify;
+}
+
+.section:hover {
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    /* color: rgb(40, 40, 36); */
+    color: white;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-right{
+    min-height: 100%;
+    width: 25%;
+}
+
+.flex-left{
+    min-height: 100%;
+    width: 75%;
+}
+
+.flex-full{
+    min-height: 100%;
+    width: 100%;
+}
+
+.portrait{
+    width: 80%;
+    height: 80%;
+    margin-top: 10%;
+    margin-right:20%;
+    margin-left: 10%;
+    object-fit: cover;
+    object-position: right;
+}
