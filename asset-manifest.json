@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/HSA-Academies-Coding-II-React-Example-Template/static/js/main.99602793.chunk.js",
+    "main.js.map": "/HSA-Academies-Coding-II-React-Example-Template/static/js/main.99602793.chunk.js.map",
+    "runtime-main.js": "/HSA-Academies-Coding-II-React-Example-Template/static/js/runtime-main.708058a0.js",
+    "runtime-main.js.map": "/HSA-Academies-Coding-II-React-Example-Template/static/js/runtime-main.708058a0.js.map",
+    "static/js/2.92864612.chunk.js": "/HSA-Academies-Coding-II-React-Example-Template/static/js/2.92864612.chunk.js",
+    "static/js/2.92864612.chunk.js.map": "/HSA-Academies-Coding-II-React-Example-Template/static/js/2.92864612.chunk.js.map",
+    "index.html": "/HSA-Academies-Coding-II-React-Example-Template/index.html",
+    "static/js/2.92864612.chunk.js.LICENSE.txt": "/HSA-Academies-Coding-II-React-Example-Template/static/js/2.92864612.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.708058a0.js",
+    "static/js/2.92864612.chunk.js",
+    "static/js/main.99602793.chunk.js"
+  ]
+}
